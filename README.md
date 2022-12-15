@@ -1,2 +1,2 @@
 # crowdfunding_project
-Homework for Excel crowdfunding project
+Module 1 Challenge - Excel crowdfunding project
